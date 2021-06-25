@@ -1,3 +1,7 @@
+## Ref: https://www.kdnuggets.com/2021/06/create-deploy-sentiment-analysis-app-api.html
+## Modelo de análisis de sentimiento
+
+
 from transformers import pipeline
 
 #text = 'i love this movie!!! :)'
