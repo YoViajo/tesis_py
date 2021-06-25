@@ -1,0 +1,18 @@
+# Create a Virtual Python Environment
+cd my-project
+virtualenv --python python3.7 venv
+
+
+# Activate the Environment
+source venv/bin/activate
+
+
+# Add Libraries and Create a requirements.txt File
+pip freeze > requirements.txt
+
+pip install -r requirements.txt
+
+
+# Deactivate the Environment
+deactivate
+
