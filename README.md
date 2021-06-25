@@ -1,6 +1,11 @@
 # tesis_py
 Archivos de desarrollo de tesis maestría UCB SC - Python
 
+
+\1_extrac           Extracción de datos de sitio web TripAdviso
+
+\2_modelo           Modelo NLP
+
 Código para extraer reseñas del sitio web TripAdvisor
 
 ta_scraper.py       Técnica #1 de web scraping
