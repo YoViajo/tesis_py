@@ -7,7 +7,7 @@ from selenium.webdriver import Chrome
 import time
 
 # default path to file to store data
-path_to_file = "/home/yoviajo/lab/tesis/scra_2/reviews_sc1.csv"
+path_to_file = "/home/yoviajo/Documentos/lab/reviews_sc1.csv"
 
 # default number of scraped pages
 num_page = 10
