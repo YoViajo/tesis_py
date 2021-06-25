@@ -1,0 +1,13 @@
+https://www.kdnuggets.com/2021/06/create-deploy-sentiment-analysis-app-api.html
+How to Create and Deploy a Simple Sentiment Analysis App via API
+
+
+https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment
+bert-base-multilingual-uncased-sentiment
+
+This model is intended for direct use as a sentiment analysis model for product reviews in any of the six languages above, or for further finetuning on related sentiment analysis tasks.
+
+
+
+https://huggingface.co/transformers/
+State-of-the-art Natural Language Processing for Jax, Pytorch and TensorFlow
